@@ -1,2 +1,2 @@
 # LightCintrol
-Light Cintrol for RC Cae
+Light Control for RC Cae
